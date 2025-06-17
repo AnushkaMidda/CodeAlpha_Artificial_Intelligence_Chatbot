@@ -30,7 +30,7 @@ This project is a Java-based Artificial Intelligence Chatbot developed as part o
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_Artificial_Intelligence_Chatbot.git
+   git clone https://github.com/AnushkaMidda/CodeAlpha_Artificial_Intelligence_Chatbot.git
    ```
 2. Open the project in your IDE or VS Code.
 3. Compile the Java files:
